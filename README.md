@@ -4,12 +4,18 @@ Cyberpunk-style interactive playing cards interface. Features neon glitch effect
 # 🃏 Cyber-Cards: Neon Interface
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Theme: Cyberpunk](https://img.shields.io/badge/Theme-Cyberpunk-00e5ff?style=for-the-badge&logo=cyberpunk2077)](https://github.com/your-username)
-[![Responsive: Yes](https://img.shields.io/badge/Responsive-Yes-green?style=for-the-badge)](https://github.com/your-username)
-[![PRs-Welcome](https://img.shields.io/badge/PRs-welcome-blueviolet.svg?style=for-the-badge)](https://github.com/your-username/cyber-cards/pulls)
+[![Theme: Cyberpunk](https://img.shields.io/badge/Theme-Cyberpunk-00e5ff?style=for-the-badge&logo=cyberpunk2077)](https://github.com/laddtnov)
+# 🃏 Cyber-Cards: Neon Interface
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+[![Theme: Cyberpunk](https://img.shields.io/badge/Theme-Cyberpunk-00e5ff?style=for-the-badge&logo=cyberpunk2077)](https://github.com/laddtnov)
+[![Responsive: Yes](https://img.shields.io/badge/Responsive-Yes-green?style=for-the-badge)](https://github.com/laddtnov)
 A high-fidelity, interactive playing cards terminal inspired by the aesthetics of **Cyberpunk 2077** and **Deus Ex**. This project focuses on advanced CSS animations, digital distortion (glitch) effects, and user-centric accessibility.
-
+you can see the live version of this project here: 
+👉 **https://laddtnov.github.io/cyber-cards/**
+## 🚀 Live Demo
 ---
 
 ## 📸 Preview
