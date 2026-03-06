@@ -18,7 +18,7 @@ you can see the live version of this project here:
 
 ## 📸 Preview
 
-![Project Screenshot](cyber-card-screenshot.png) 
+![Project Screenshot](cyber-cards-screenshot.png) 
 
 ---
 
