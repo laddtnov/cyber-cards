@@ -19,7 +19,6 @@ you can see the live version of this project here:
 ## 📸 Preview
 
 ![Project Screenshot](cyber-card-screenshot.png) 
-*Replace "screenshot.png" with the actual path to your image after uploading it*
 
 ---
 
